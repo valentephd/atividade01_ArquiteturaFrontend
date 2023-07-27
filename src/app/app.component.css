@@ -1,6 +1,6 @@
 .content {
     display: flex;
-    background-color: #122497;
+    /*background-color: #122497;*/
     color: aliceblue;
     flex-flow: column;
     flex-direction: column;
@@ -9,5 +9,5 @@
     justify-content: center;
     align-items: stretch;
     gap: 20px;
-    border: black 2px solid;
+    /*border: black 2px solid;*/
 }
