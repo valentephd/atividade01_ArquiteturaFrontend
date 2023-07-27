@@ -1,0 +1,18 @@
+.apresentationHeaderContent {
+    border: black 2px solid;
+    display: flex;
+    align-items: flex-start;
+    padding: 50px 100px 50px 100px;
+}
+
+.apresentationHeaderContent img {
+    border-radius: 50%;
+}
+
+.textApresentation {
+    padding-left: 100px;
+    text-align: justify;
+    padding-right: 100px;
+    font-family: monospace;
+    font-size: 15px;
+}
